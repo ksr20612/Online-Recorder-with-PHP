@@ -12,5 +12,5 @@ online Recorder with PHP (2020-11 ~ 2020-12)
 
 
   
-- signUp, signIn process added (2020-11-16)
+signUp, signIn process added (2020-11-16)
 - 10 sentences are allocated to each user; users can continue their recordings by signing in again
