@@ -1,0 +1,127 @@
+* {
+	margin: 10px;
+	padding: 0;
+}
+body {
+	font-family: 'Arial', serif;
+}
+
+img {
+	border: 0;
+}
+h1 {
+	color: red;
+}
+#time_text{
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+#formats{
+	padding-left: 50px;
+}
+#fieldset {
+	width: 800px;
+	margin-left:20px  auto;
+	border: 1px solid;
+}
+div {
+	margin: 30px;
+	padding-left: 20px;
+}
+#controls*{
+	margin: 10px;
+	padding-left: 0;
+}
+.font_arial {
+	font-family: Arial
+}
+#direction1, #direction2, #direction3{
+	font-size: large
+	font-size: 15px;
+	font-weight: bold;
+}
+button {
+	flex-grow: 1;
+	height: 30px;
+	width: 80px;
+	border: none;
+	border-radius: 0.15 rem;
+	background: #ed341d;
+	
+	margin-right: 2px;
+	box-shadow: inset 0 -0.15 rem 0 rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 15px;
+}
+button:hover, button:focus {
+	outline: none;
+	background: #c72d1c;
+}
+
+button::-moz-focus-inner {
+	border: 0;
+}
+
+button:active {
+	box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2);
+	line-height: 3rem;
+}
+
+button:disabled {
+	pointer-events: none;
+	background: lightgray;
+}
+#table_div {
+	width: 1800px;
+	marigin: 20px; auto;
+	padding: 30px;
+	background: ;
+	border: thick;
+}
+#guide_text {
+	color: black;
+	font-weight: bold;
+}
+#controls{
+	display: flex;
+	max-width: 28em;
+	padding: 20px;
+}
+
+table {
+	border-spacing: 5px;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid;
+	padding: 5px;	
+}
+.list {
+	text-align: center;
+	alignment-adjust: central;
+}
+th {
+	border: 1px solid;
+	padding: 5px;
+	text-align: center;	
+}
+.cell {
+	width: 20px;
+	height: 20px;
+}
+
+#recordtable {
+	border: 2px solid;
+	width: auto;
+	margin: 10px;
+	text-align: left;
+}
+#input_survey_id{
+	margin-left: 40px;
+}
