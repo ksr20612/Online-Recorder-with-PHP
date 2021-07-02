@@ -1,7 +1,7 @@
 # Online-Recorder-with-PHP
 online Recorder with PHP (2020-11 ~ 2020-12)
 
-- users record the scripts shown on the browser 
+- users record scripts shown on the browser 
 - using mediaRecorder
 - using javascript with PHP
 - using MSSQL to store user informations(ids, passwords with minimal personal information) & scripts 
